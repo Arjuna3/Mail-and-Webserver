@@ -1,0 +1,2 @@
+www.example.tld,example.tld,test.example.tld,other.example.tld
+www.example1.tld,test.example1.tld
